@@ -34,7 +34,7 @@ input + label > .circle {
   display: flex;
   align-items: center;
 }
-p {
+#good,#fast,#cheap {
   padding-left: 5px;
 }
 .toggle-container {

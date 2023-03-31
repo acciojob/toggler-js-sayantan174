@@ -28,9 +28,9 @@ input + label > .circle {
   border-radius: 10px;
   top: 1px;
 }
-.g1,
-.g2,
-.g3 {
+#g1,
+#g2,
+#g3 {
   display: flex;
   align-items: center;
 }
